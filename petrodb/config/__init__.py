@@ -1,0 +1,2 @@
+def readConfig():
+    return None

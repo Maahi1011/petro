@@ -1,0 +1,16 @@
+{
+  "key": {
+    "0": "archive_path",
+    "1": "incoming_path",
+    "2": "landing_path",
+    "3": "bus_metadata_delta_path"
+
+
+  },
+  "value": {
+    "0": "abfss://archived@stdldigirawdev.dfs.core.windows.net/",
+    "1": "abfss://incoming@stdldigirawdev.dfs.core.windows.net/",
+    "2": "abfss://landed@stdldigirawdev.dfs.core.windows.net/",
+    "3": "abfss://metadata@stdldigirawdev.dfs.core.windows.net/business/usermanaged/business_metadata"
+  }
+}
